@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 - 👀 I’m interested in **Web Development, AI/ML, and solving challenging problems**  
-- 🌱 Currently learning **Java, Advanced DSA & AI applications**  
+- 🌱 Currently learning **Java, Advanced DSA & AI applications** 
 - 💞️ Open to collaborating on **real-world innovative projects**  
 - 📫 Reach me at: **anshsharmaxxxx@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sharmansh/)  
 - 😄 Pronouns: **He/Him**  
